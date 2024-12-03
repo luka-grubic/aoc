@@ -5,10 +5,13 @@ using System.Collections.Generic;
 
 namespace aoc2024_1
 {
+
+
+
     public static class Shared
     {
         public static List<UInt32> s_left, s_right;
-    }
+    } // !class Shared
 
 
 
@@ -20,5 +23,8 @@ namespace aoc2024_1
 
             aoc2024_1_b.Solution();
         }
-    }
-}
+    } // !class Program
+
+
+
+} // !namespace aoc2024_1

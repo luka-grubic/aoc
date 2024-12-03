@@ -6,8 +6,14 @@ using System.Linq;
 
 namespace aoc2024_1
 {
+
+
+
     public static class aoc2024_1_b
     {
+
+
+
         public static void Solution()
         {
             List<UInt32> left = Shared.s_left;
@@ -26,5 +32,11 @@ namespace aoc2024_1
 
             Console.WriteLine($"SOLUTION aoc2024-1-b: {sum}");
         }
-    }
-}
+
+
+
+    } // !class aoc2024_1_b
+
+
+
+} // !namespace aoc2024_1

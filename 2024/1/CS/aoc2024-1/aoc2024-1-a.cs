@@ -6,8 +6,14 @@ using System.IO;
 
 namespace aoc2024_1
 {
+
+
+
     public static class aoc2024_1_a
     {
+
+
+
         public static void Solution(string[] args)
         {
             string inFilePath = args[0];
@@ -36,5 +42,11 @@ namespace aoc2024_1
 
             Console.WriteLine($"SOLUTION aoc2024-1-a: {sum}");
         }
-    }
-}
+
+
+
+    } // !class aoc2024_1_a
+
+
+
+} // !namespace aoc2024_1
