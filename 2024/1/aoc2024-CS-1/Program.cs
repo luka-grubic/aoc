@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 
 
-namespace aoc2024_1
+namespace aoc2024_CS_1
 {
 
 
@@ -19,12 +19,12 @@ namespace aoc2024_1
     {
         static void Main(string[] args)
         {
-            aoc2024_1_a.Solution(args);
+            aoc2024_CS_1_a.Solution(args);
 
-            aoc2024_1_b.Solution();
+            aoc2024_CS_1_b.Solution();
         }
     } // !class Program
 
 
 
-} // !namespace aoc2024_1
+} // !namespace aoc2024_CS_1

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{310ED9B8-7C1F-4D73-934B-EA8E53A50F14}</ProjectGuid>
+    <ProjectGuid>{1B2875A7-2A55-455C-966D-00D2731EF917}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>aoc2024_1</RootNamespace>
-    <AssemblyName>aoc2024-1</AssemblyName>
+    <RootNamespace>aoc2024_CS_1</RootNamespace>
+    <AssemblyName>aoc2024-CS-1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="aoc2024-1-a.cs" />
-    <Compile Include="aoc2024-1-b.cs" />
+    <Compile Include="aoc2024-CS-1-a.cs" />
+    <Compile Include="aoc2024-CS-1-b.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

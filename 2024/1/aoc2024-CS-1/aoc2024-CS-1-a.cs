@@ -4,12 +4,12 @@ using System.IO;
 
 
 
-namespace aoc2024_1
+namespace aoc2024_CS_1
 {
 
 
 
-    public static class aoc2024_1_a
+    public static class aoc2024_CS_1_a
     {
 
 
@@ -45,8 +45,8 @@ namespace aoc2024_1
 
 
 
-    } // !class aoc2024_1_a
+    } // !class aoc2024_CS_1_a
 
 
 
-} // !namespace aoc2024_1
+} // !namespace aoc2024_CS_1

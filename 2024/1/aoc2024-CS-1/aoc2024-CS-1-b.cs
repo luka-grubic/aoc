@@ -4,12 +4,12 @@ using System.Linq;
 
 
 
-namespace aoc2024_1
+namespace aoc2024_CS_1
 {
 
 
 
-    public static class aoc2024_1_b
+    public static class aoc2024_CS_1_b
     {
 
 
@@ -35,8 +35,8 @@ namespace aoc2024_1
 
 
 
-    } // !class aoc2024_1_b
+    } // !class aoc2024_CS_1_b
 
 
 
-} // !namespace aoc2024_1
+} // !namespace aoc2024_CS_1
